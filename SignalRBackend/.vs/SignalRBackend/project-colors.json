@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6ef19a6-ea51-46d1-8d55-54e58b3f00bf": {
+      "ProjectGuid": "b6ef19a6-ea51-46d1-8d55-54e58b3f00bf",
+      "DisplayName": "SignalRBackend",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
